@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 5451301c76b4d0b4a968f314a47f376d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7015430727407809751
+    second: spr_soldierrec10_strip50_0
+  - first:
+      213: -5079743362010186161
+    second: spr_soldierrec10_strip50_1
+  - first:
+      213: -586781940659033025
+    second: spr_soldierrec10_strip50_2
+  - first:
+      213: -5771778066853058924
+    second: spr_soldierrec10_strip50_3
+  - first:
+      213: -5482322798920309542
+    second: spr_soldierrec10_strip50_4
+  - first:
+      213: 466480686738894883
+    second: spr_soldierrec10_strip50_5
+  - first:
+      213: 4656013079164991788
+    second: spr_soldierrec10_strip50_6
+  - first:
+      213: -36940769952371780
+    second: spr_soldierrec10_strip50_7
+  - first:
+      213: -7779602984922805235
+    second: spr_soldierrec10_strip50_8
+  - first:
+      213: 6733294916119565131
+    second: spr_soldierrec10_strip50_9
+  - first:
+      213: -62433171887036271
+    second: spr_soldierrec10_strip50_10
+  - first:
+      213: 3692112204864362651
+    second: spr_soldierrec10_strip50_11
+  - first:
+      213: 1272188146128925826
+    second: spr_soldierrec10_strip50_12
+  - first:
+      213: 1809443740008326162
+    second: spr_soldierrec10_strip50_13
+  - first:
+      213: 7164560215861690213
+    second: spr_soldierrec10_strip50_14
+  - first:
+      213: 6820532286775027118
+    second: spr_soldierrec10_strip50_15
+  - first:
+      213: -592305221659079028
+    second: spr_soldierrec10_strip50_16
+  - first:
+      213: 5682291138225994428
+    second: spr_soldierrec10_strip50_17
+  - first:
+      213: 4062036395356766677
+    second: spr_soldierrec10_strip50_18
+  - first:
+      213: 7476929718578462171
+    second: spr_soldierrec10_strip50_19
+  - first:
+      213: -1020023556833341787
+    second: spr_soldierrec10_strip50_20
+  - first:
+      213: -615489067909524914
+    second: spr_soldierrec10_strip50_21
+  - first:
+      213: 7003341395153087105
+    second: spr_soldierrec10_strip50_22
+  - first:
+      213: -2272063657813878180
+    second: spr_soldierrec10_strip50_23
+  - first:
+      213: -3658953974785528153
+    second: spr_soldierrec10_strip50_24
+  - first:
+      213: 1152073896109131554
+    second: spr_soldierrec10_strip50_25
+  - first:
+      213: 5964658054087345307
+    second: spr_soldierrec10_strip50_26
+  - first:
+      213: -707706688866636396
+    second: spr_soldierrec10_strip50_27
+  - first:
+      213: 7215380661817615035
+    second: spr_soldierrec10_strip50_28
+  - first:
+      213: -3362426352831774516
+    second: spr_soldierrec10_strip50_29
+  - first:
+      213: 4010667003585034725
+    second: spr_soldierrec10_strip50_30
+  - first:
+      213: -5287836030051061516
+    second: spr_soldierrec10_strip50_31
+  - first:
+      213: 5341544511495462476
+    second: spr_soldierrec10_strip50_32
+  - first:
+      213: -7909971764872873096
+    second: spr_soldierrec10_strip50_33
+  - first:
+      213: -5503193142252517027
+    second: spr_soldierrec10_strip50_34
+  - first:
+      213: 2108212209990113758
+    second: spr_soldierrec10_strip50_35
+  - first:
+      213: -4476830278189653502
+    second: spr_soldierrec10_strip50_36
+  - first:
+      213: -471307322710387403
+    second: spr_soldierrec10_strip50_37
+  - first:
+      213: 1874745637001221752
+    second: spr_soldierrec10_strip50_38
+  - first:
+      213: 1022398975370785807
+    second: spr_soldierrec10_strip50_39
+  - first:
+      213: 7181677298225455034
+    second: spr_soldierrec10_strip50_40
+  - first:
+      213: 4130289356401654000
+    second: spr_soldierrec10_strip50_41
+  - first:
+      213: 2946513835667131759
+    second: spr_soldierrec10_strip50_42
+  - first:
+      213: -1641820893660707043
+    second: spr_soldierrec10_strip50_43
+  - first:
+      213: 1632653260763782600
+    second: spr_soldierrec10_strip50_44
+  - first:
+      213: 2701781372766762126
+    second: spr_soldierrec10_strip50_45
+  - first:
+      213: 7078721455694264495
+    second: spr_soldierrec10_strip50_46
+  - first:
+      213: -2348259518106289256
+    second: spr_soldierrec10_strip50_47
+  - first:
+      213: -5635270950579092864
+    second: spr_soldierrec10_strip50_48
+  - first:
+      213: 568236409214358436
+    second: spr_soldierrec10_strip50_49
+  - first:
+      213: -3745655464320919106
+    second: spr_soldier_reload_10_strip50_0
+  - first:
+      213: 2279991123971764825
+    second: spr_soldier_reload_10_strip50_1
+  - first:
+      213: 5048079336569254858
+    second: spr_soldier_reload_10_strip50_2
+  - first:
+      213: 579205454504064856
+    second: spr_soldier_reload_10_strip50_3
+  - first:
+      213: 6910633926914190947
+    second: spr_soldier_reload_10_strip50_4
+  - first:
+      213: -8354710574714817360
+    second: spr_soldier_reload_10_strip50_5
+  - first:
+      213: 3571918049861264665
+    second: spr_soldier_reload_10_strip50_6
+  - first:
+      213: -5081357385297304036
+    second: spr_soldier_reload_10_strip50_7
+  - first:
+      213: -6624512041953074856
+    second: spr_soldier_reload_10_strip50_8
+  - first:
+      213: -4520275325921286879
+    second: spr_soldier_reload_10_strip50_9
+  - first:
+      213: -3729120980632772925
+    second: spr_soldier_reload_10_strip50_10
+  - first:
+      213: -18118899505969338
+    second: spr_soldier_reload_10_strip50_11
+  - first:
+      213: -219582500827189718
+    second: spr_soldier_reload_10_strip50_12
+  - first:
+      213: 5144008019860077386
+    second: spr_soldier_reload_10_strip50_13
+  - first:
+      213: 8326722716747169169
+    second: spr_soldier_reload_10_strip50_14
+  - first:
+      213: 3080272218850675778
+    second: spr_soldier_reload_10_strip50_15
+  - first:
+      213: -8627061561766293065
+    second: spr_soldier_reload_10_strip50_16
+  - first:
+      213: -6243867398701971741
+    second: spr_soldier_reload_10_strip50_17
+  - first:
+      213: -6780805222634653968
+    second: spr_soldier_reload_10_strip50_18
+  - first:
+      213: 3593223477356990860
+    second: spr_soldier_reload_10_strip50_19
+  - first:
+      213: 4256101389663654109
+    second: spr_soldier_reload_10_strip50_20
+  - first:
+      213: -2470053060988188174
+    second: spr_soldier_reload_10_strip50_21
+  - first:
+      213: 9097555843329444388
+    second: spr_soldier_reload_10_strip50_22
+  - first:
+      213: 1220802774780796851
+    second: spr_soldier_reload_10_strip50_23
+  - first:
+      213: 7450974723004992724
+    second: spr_soldier_reload_10_strip50_24
+  - first:
+      213: 432993747398366739
+    second: spr_soldier_reload_10_strip50_25
+  - first:
+      213: -1451695721603827223
+    second: spr_soldier_reload_10_strip50_26
+  - first:
+      213: 2074966103446176244
+    second: spr_soldier_reload_10_strip50_27
+  - first:
+      213: 5929514861119823670
+    second: spr_soldier_reload_10_strip50_28
+  - first:
+      213: -7673585100919495643
+    second: spr_soldier_reload_10_strip50_29
+  - first:
+      213: -830414218981720175
+    second: spr_soldier_reload_10_strip50_30
+  - first:
+      213: 7834226680199885393
+    second: spr_soldier_reload_10_strip50_31
+  - first:
+      213: 28013737616622333
+    second: spr_soldier_reload_10_strip50_32
+  - first:
+      213: 8466496588192374768
+    second: spr_soldier_reload_10_strip50_33
+  - first:
+      213: 7579402827558611645
+    second: spr_soldier_reload_10_strip50_34
+  - first:
+      213: -1420046884262260277
+    second: spr_soldier_reload_10_strip50_35
+  - first:
+      213: -9015741051782416165
+    second: spr_soldier_reload_10_strip50_36
+  - first:
+      213: 6132532446841486562
+    second: spr_soldier_reload_10_strip50_37
+  - first:
+      213: 3353657830738609937
+    second: spr_soldier_reload_10_strip50_38
+  - first:
+      213: -3738357256789345921
+    second: spr_soldier_reload_10_strip50_39
+  - first:
+      213: -4324302085920449867
+    second: spr_soldier_reload_10_strip50_40
+  - first:
+      213: -7151436318399122598
+    second: spr_soldier_reload_10_strip50_41
+  - first:
+      213: -330509155546569662
+    second: spr_soldier_reload_10_strip50_42
+  - first:
+      213: -5326977208145278153
+    second: spr_soldier_reload_10_strip50_43
+  - first:
+      213: 6232275023897938349
+    second: spr_soldier_reload_10_strip50_44
+  - first:
+      213: 3637914674378050811
+    second: spr_soldier_reload_10_strip50_45
+  - first:
+      213: 8092358750626887330
+    second: spr_soldier_reload_10_strip50_46
+  - first:
+      213: -8569372662509505092
+    second: spr_soldier_reload_10_strip50_47
+  - first:
+      213: -6680055535874780189
+    second: spr_soldier_reload_10_strip50_48
+  - first:
+      213: -9210001489389563620
+    second: spr_soldier_reload_10_strip50_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6ba437f41e144d8848de58adf4c61
+      internalID: -3745655464320919106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0b6474677c4c4bb0c49fe2b5a1015
+      internalID: 2279991123971764825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20199ad7d6768d49b3958d04dcb7c29
+      internalID: 5048079336569254858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529fb2ba99268a4b8d55a5f97474f2c
+      internalID: 579205454504064856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfd04064f9850b4db186169acff2cba
+      internalID: 6910633926914190947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6268f001e41c6e4a975532bc513f233
+      internalID: -8354710574714817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94cdbfe0fc38a45ba74c99a32a2000
+      internalID: 3571918049861264665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d44eb8bbfe1d94b97a56433611206b
+      internalID: -5081357385297304036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06e5681dea66b84483e4d3f87f7fafb
+      internalID: -6624512041953074856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7b3a0c6998a145a97f5fa5bf6483f
+      internalID: -4520275325921286879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4411f95749bb45bd2417784e734bc
+      internalID: -3729120980632772925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40146a020e9a9414d9d9b0b580c96122
+      internalID: -18118899505969338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b802af1b9ad4d4d44836fde9deb47400
+      internalID: -219582500827189718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1801ef0314d734bb21b43b040aa16d
+      internalID: 5144008019860077386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12abe5f9665c2c540bb2176ad9a874f5
+      internalID: 8326722716747169169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5541041b4733345ae0cbe2b98e3d93
+      internalID: 3080272218850675778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a97df173bb85143b3689ddc83c8175
+      internalID: -8627061561766293065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e846ef1c458244aa11b573d17622b
+      internalID: -6243867398701971741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c025ab2a39c0dfe4482c5221dc6124df
+      internalID: -6780805222634653968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82fe1a9bbac9734abbe78ca6d6ac146
+      internalID: 3593223477356990860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cec0ac23f6bee4ca71a8379457cdd2
+      internalID: 4256101389663654109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_21
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32494b97f2477b43a846657ec1b1844
+      internalID: -2470053060988188174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_22
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d168434e56d6f204a8026d309318398c
+      internalID: 9097555843329444388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_23
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8c6a943f0fc045a365faaf5a56866
+      internalID: 1220802774780796851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b91acafe0a86b64b89145916183b2e7
+      internalID: 7450974723004992724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_25
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b1e57ee66dad41a6d4b68fbfb037e
+      internalID: 432993747398366739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_26
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e93e63756acd49a56725d06ecf6c6
+      internalID: -1451695721603827223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_27
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85474456e5085eb4ab19690a931e6684
+      internalID: 2074966103446176244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_28
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f12e4f72e7e1141a3fe2079cb58416
+      internalID: 5929514861119823670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_29
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57af87925ec79354eb424225a121f9c2
+      internalID: -7673585100919495643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad05e8f37ad3d34c8082c64d5a3c8e5
+      internalID: -830414218981720175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_31
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab36c6d8d95a2f4ab66995d5008a4fe
+      internalID: 7834226680199885393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6e420c2ceaa034aa97eb49eebafc7d
+      internalID: 28013737616622333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_33
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8099cd5192a6dde458cd31339d5c7068
+      internalID: 8466496588192374768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_34
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726279dcb848144b894e02b905871a6
+      internalID: 7579402827558611645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_35
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2c6d6d34eb9a469755e88242d266d
+      internalID: -1420046884262260277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_36
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da79f562378456843a970ee1c8172c53
+      internalID: -9015741051782416165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_37
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c7525319e15c4e8007069c5e77d76
+      internalID: 6132532446841486562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_38
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9dbbba7778b644a95691c1a179aecd
+      internalID: 3353657830738609937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_39
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5dc9f27e9d8234d8588e8662c94939
+      internalID: -3738357256789345921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_40
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192dfe27abacf342aab79c2b6716ce6
+      internalID: -4324302085920449867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_41
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75b7d1fb29a8646977cc66b5aa71a3
+      internalID: -7151436318399122598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_42
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c16fba15c42246bc23101d9c47471
+      internalID: -330509155546569662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_43
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966e079d4b7e1f4487770b2383986b9
+      internalID: -5326977208145278153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_44
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad996aa5a829234b939ce1586e6f5a0
+      internalID: 6232275023897938349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_45
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e29ab598f024cf43933c1d86b2c8411
+      internalID: 3637914674378050811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_46
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37947cc432ee09b459ce6374a9d3f0f5
+      internalID: 8092358750626887330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_47
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029729c9881359443ab060ad78a52e4b
+      internalID: -8569372662509505092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1603938c9500de4587fbbea51e6194e
+      internalID: -6680055535874780189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldier_reload_10_strip50_49
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833dde6e262120648829afc7851f6dc2
+      internalID: -9210001489389563620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_soldier_reload_10_strip50_48: -6680055535874780189
+      spr_soldier_reload_10_strip50_13: 5144008019860077386
+      spr_soldier_reload_10_strip50_43: -5326977208145278153
+      spr_soldier_reload_10_strip50_33: 8466496588192374768
+      spr_soldier_reload_10_strip50_31: 7834226680199885393
+      spr_soldier_reload_10_strip50_30: -830414218981720175
+      spr_soldier_reload_10_strip50_42: -330509155546569662
+      spr_soldier_reload_10_strip50_0: -3745655464320919106
+      spr_soldier_reload_10_strip50_8: -6624512041953074856
+      spr_soldier_reload_10_strip50_14: 8326722716747169169
+      spr_soldier_reload_10_strip50_39: -3738357256789345921
+      spr_soldier_reload_10_strip50_49: -9210001489389563620
+      spr_soldier_reload_10_strip50_32: 28013737616622333
+      spr_soldier_reload_10_strip50_12: -219582500827189718
+      spr_soldier_reload_10_strip50_22: 9097555843329444388
+      spr_soldier_reload_10_strip50_7: -5081357385297304036
+      spr_soldier_reload_10_strip50_23: 1220802774780796851
+      spr_soldier_reload_10_strip50_6: 3571918049861264665
+      spr_soldier_reload_10_strip50_4: 6910633926914190947
+      spr_soldier_reload_10_strip50_21: -2470053060988188174
+      spr_soldier_reload_10_strip50_47: -8569372662509505092
+      spr_soldier_reload_10_strip50_11: -18118899505969338
+      spr_soldier_reload_10_strip50_18: -6780805222634653968
+      spr_soldier_reload_10_strip50_46: 8092358750626887330
+      spr_soldier_reload_10_strip50_5: -8354710574714817360
+      spr_soldier_reload_10_strip50_17: -6243867398701971741
+      spr_soldier_reload_10_strip50_1: 2279991123971764825
+      spr_soldier_reload_10_strip50_44: 6232275023897938349
+      spr_soldier_reload_10_strip50_20: 4256101389663654109
+      spr_soldier_reload_10_strip50_26: -1451695721603827223
+      spr_soldier_reload_10_strip50_37: 6132532446841486562
+      spr_soldier_reload_10_strip50_28: 5929514861119823670
+      spr_soldier_reload_10_strip50_10: -3729120980632772925
+      spr_soldier_reload_10_strip50_29: -7673585100919495643
+      spr_soldier_reload_10_strip50_3: 579205454504064856
+      spr_soldier_reload_10_strip50_36: -9015741051782416165
+      spr_soldier_reload_10_strip50_16: -8627061561766293065
+      spr_soldier_reload_10_strip50_25: 432993747398366739
+      spr_soldier_reload_10_strip50_34: 7579402827558611645
+      spr_soldier_reload_10_strip50_24: 7450974723004992724
+      spr_soldier_reload_10_strip50_41: -7151436318399122598
+      spr_soldier_reload_10_strip50_35: -1420046884262260277
+      spr_soldier_reload_10_strip50_45: 3637914674378050811
+      spr_soldier_reload_10_strip50_15: 3080272218850675778
+      spr_soldier_reload_10_strip50_38: 3353657830738609937
+      spr_soldier_reload_10_strip50_19: 3593223477356990860
+      spr_soldier_reload_10_strip50_40: -4324302085920449867
+      spr_soldier_reload_10_strip50_27: 2074966103446176244
+      spr_soldier_reload_10_strip50_9: -4520275325921286879
+      spr_soldier_reload_10_strip50_2: 5048079336569254858
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

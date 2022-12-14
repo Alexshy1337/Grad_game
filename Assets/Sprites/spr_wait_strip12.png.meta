@@ -1,0 +1,1922 @@
+fileFormatVersion: 2
+guid: 8223ba3af8b45fe428ebdf932e3d1f0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3070950757960798879
+    second: spr_wait_strip12_0
+  - first:
+      213: -9137313088394221361
+    second: spr_wait_strip12_1
+  - first:
+      213: 8470328821267705144
+    second: spr_wait_strip12_2
+  - first:
+      213: 4377743790796880833
+    second: spr_wait_strip12_3
+  - first:
+      213: 5996189106421345977
+    second: spr_wait_strip12_4
+  - first:
+      213: -4294252475182181865
+    second: spr_wait_strip12_5
+  - first:
+      213: 3831669436627194887
+    second: spr_wait_strip12_6
+  - first:
+      213: -4060591380277453131
+    second: spr_wait_strip12_7
+  - first:
+      213: -4815027860743828895
+    second: spr_wait_strip12_8
+  - first:
+      213: -3235910206546072954
+    second: spr_wait_strip12_9
+  - first:
+      213: -6518763029607307917
+    second: spr_wait_strip12_10
+  - first:
+      213: -7800321989306089185
+    second: spr_wait_strip12_11
+  - first:
+      213: 4937554633611506502
+    second: spr_wait_strip12_12
+  - first:
+      213: -8567121428731458115
+    second: spr_wait_strip12_13
+  - first:
+      213: -5055819861015095127
+    second: spr_wait_strip12_14
+  - first:
+      213: -7765357351078613647
+    second: spr_wait_strip12_15
+  - first:
+      213: 61981614977882570
+    second: spr_wait_strip12_16
+  - first:
+      213: -2756085795675894498
+    second: spr_wait_strip12_17
+  - first:
+      213: -6033415576347712101
+    second: spr_wait_strip12_18
+  - first:
+      213: 2870726610182677412
+    second: spr_wait_strip12_19
+  - first:
+      213: -6917282997414057193
+    second: spr_wait_strip12_20
+  - first:
+      213: -3023299153066117947
+    second: spr_wait_strip12_21
+  - first:
+      213: 8049957497755560761
+    second: spr_wait_strip12_22
+  - first:
+      213: -2122295063134146780
+    second: spr_wait_strip12_23
+  - first:
+      213: -8508984889374640099
+    second: spr_wait_strip12_24
+  - first:
+      213: -3552375625510359683
+    second: spr_wait_strip12_25
+  - first:
+      213: -1180937519375182486
+    second: spr_wait_strip12_26
+  - first:
+      213: 6607690208573186848
+    second: spr_wait_strip12_27
+  - first:
+      213: 6367424815213977704
+    second: spr_wait_strip12_28
+  - first:
+      213: -7889465645778523559
+    second: spr_wait_strip12_29
+  - first:
+      213: 1404847887734747366
+    second: spr_wait_strip12_30
+  - first:
+      213: -3410722066966812263
+    second: spr_wait_strip12_31
+  - first:
+      213: -3090754342182014029
+    second: spr_wait_strip12_32
+  - first:
+      213: -4798655546062513850
+    second: spr_wait_strip12_33
+  - first:
+      213: 4290420127776032983
+    second: spr_wait_strip12_34
+  - first:
+      213: 428643857042826940
+    second: spr_wait_strip12_35
+  - first:
+      213: -4332255086632799860
+    second: spr_wait_strip12_36
+  - first:
+      213: -4923936523256996875
+    second: spr_wait_strip12_37
+  - first:
+      213: -7720639935209887050
+    second: spr_wait_strip12_38
+  - first:
+      213: -3325475035131132622
+    second: spr_wait_strip12_39
+  - first:
+      213: 1262065768554493264
+    second: spr_wait_strip12_40
+  - first:
+      213: 5634280002278542848
+    second: spr_wait_strip12_41
+  - first:
+      213: -1335691521596799428
+    second: spr_wait_strip12_42
+  - first:
+      213: -5987550640579008103
+    second: spr_wait_strip12_43
+  - first:
+      213: 6301770521377887564
+    second: spr_wait_strip12_44
+  - first:
+      213: 5153917076310578618
+    second: spr_wait_strip12_45
+  - first:
+      213: 4313984123759636168
+    second: spr_wait_strip12_46
+  - first:
+      213: 3629768892693766118
+    second: spr_wait_strip12_47
+  - first:
+      213: -4383208248852594796
+    second: spr_wait_strip12_48
+  - first:
+      213: -8356935416311559193
+    second: spr_wait_strip12_49
+  - first:
+      213: -8706704587138710880
+    second: spr_wait_strip12_50
+  - first:
+      213: 1448392202129003068
+    second: spr_wait_strip12_51
+  - first:
+      213: 4431457641393984707
+    second: spr_wait_strip12_52
+  - first:
+      213: 1373614368378395140
+    second: spr_wait_strip12_53
+  - first:
+      213: -3188211200543787802
+    second: spr_wait_strip12_54
+  - first:
+      213: 7167267778105112715
+    second: spr_wait_strip12_55
+  - first:
+      213: -330810578561643469
+    second: spr_wait_strip12_56
+  - first:
+      213: -1857022962802741712
+    second: spr_wait_strip12_57
+  - first:
+      213: -2116262825048672603
+    second: spr_wait_strip12_58
+  - first:
+      213: -1464334819638101616
+    second: spr_wait_strip12_59
+  - first:
+      213: -6176922015055686209
+    second: spr_wait_strip12_60
+  - first:
+      213: -5524469429135237863
+    second: spr_wait_strip12_61
+  - first:
+      213: -2740031982075049761
+    second: spr_wait_strip12_62
+  - first:
+      213: -5366775313524262834
+    second: spr_wait_strip12_63
+  - first:
+      213: 876171215760906798
+    second: spr_wait_strip12_64
+  - first:
+      213: 6101324959891869112
+    second: spr_wait_strip12_65
+  - first:
+      213: 4650409652731434451
+    second: spr_wait_strip12_66
+  - first:
+      213: 3099577471797666324
+    second: spr_wait_strip12_67
+  - first:
+      213: -8523166343286264533
+    second: spr_wait_strip12_68
+  - first:
+      213: -5001855369378183676
+    second: spr_wait_strip12_69
+  - first:
+      213: -736356970684246067
+    second: spr_wait_strip12_70
+  - first:
+      213: 6342760420466658556
+    second: spr_wait_strip12_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_wait_strip12_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1b023d4ea5bf4f91af0d4f70467b2
+      internalID: -3070950757960798879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be853d73743e7d24c84db8ef205a30fa
+      internalID: -9137313088394221361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902af61963b19994bbb76bbf02ad8408
+      internalID: 8470328821267705144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 31
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba000fa2dc142d74aab834f62b72efad
+      internalID: 4377743790796880833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 31
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884a2dd60889a34a8b8d05cce34f09e
+      internalID: 5996189106421345977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd37de6654890419c2059aed41510c
+      internalID: -4294252475182181865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_6
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 31
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100094f05fd1c444977320a7c63bd03
+      internalID: 3831669436627194887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 31
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c752480f1cd61d49bbc1e0732e9b5aa
+      internalID: -4060591380277453131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea9d51230c12f49a6624b194d4af79
+      internalID: -4815027860743828895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 31
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98644a67e26244248a07b3b39688ab4f
+      internalID: -3235910206546072954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 31
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb221c53a666fa4e98a128ba6d4a016
+      internalID: -6518763029607307917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_11
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3d5862b414204dbb229182129695e
+      internalID: -7800321989306089185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_12
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 31
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15407caa60fd09458e982bd94222039
+      internalID: 4937554633611506502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_13
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d15450d0c72d48aab631934a1bbcf
+      internalID: -8567121428731458115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_14
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 31
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb52c376e1446e42a03e3bebe4016d0
+      internalID: -5055819861015095127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_15
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ced95b14196040969d1a8c63ce368
+      internalID: -7765357351078613647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_16
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 31
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf6a26e8de2f6458998f3aba987828
+      internalID: 61981614977882570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_17
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 31
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e37557e86d8647aa3f761cb3e3de6
+      internalID: -2756085795675894498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_18
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c9cdfc9ce39404bb3b884102dbb483
+      internalID: -6033415576347712101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 31
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aa7345f8bfc504892d280eec17aa4c
+      internalID: 2870726610182677412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_20
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e71e910f3ecf48a8a90cbcb8597c8
+      internalID: -6917282997414057193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_21
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 31
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a20a2e383138047b586bf67c72f5fe
+      internalID: -3023299153066117947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_22
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fa18d0c8d7e9346acfff2cbd9906f2
+      internalID: 8049957497755560761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 31
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017b4c3d2515ea479846e9bc6a53412
+      internalID: -2122295063134146780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_24
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 31
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4fbe527ce74bf4cb4dcd6296ba8e2d
+      internalID: -8508984889374640099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_25
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e165ff83609244adaf82068803100
+      internalID: -3552375625510359683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_26
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 31
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042253437b677164ca70e096cf110ea5
+      internalID: -1180937519375182486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 31
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e0645661c6344294fcdce9f323cb0
+      internalID: 6607690208573186848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772b40cf5a878c429b01b382441d2b4
+      internalID: 6367424815213977704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 31
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610de09b1dcb5a4c9531e6c8bce24e2
+      internalID: -7889465645778523559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df029a0815decec4f8895aeab5014411
+      internalID: 1404847887734747366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d70d8b278776b4385b8caea001c3f7
+      internalID: -3410722066966812263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_32
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accce6b7cdca29043841dfa0fd8febf8
+      internalID: -3090754342182014029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_33
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a787788c88e0444a515a805669eba2
+      internalID: -4798655546062513850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_34
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe7eb1a18c2914d9019e6976023fd7
+      internalID: 4290420127776032983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_35
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaddb76f34e363146870e4e45d5be13d
+      internalID: 428643857042826940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_36
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68585d7ec2e746644b7f1102c598a299
+      internalID: -4332255086632799860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_37
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 31
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d796e6ec345f14c98d4c2d7cdfa5d6
+      internalID: -4923936523256996875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_38
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07ebf269d70e648ab0d5831371b750
+      internalID: -7720639935209887050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_39
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca532ca9420e2a46b4a5a5c06139a31
+      internalID: -3325475035131132622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_40
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 31
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d706faf993eb874ba904c9c96299d37
+      internalID: 1262065768554493264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_41
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb148329c9c0cd243bd7d8fb1908f72d
+      internalID: 5634280002278542848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_42
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4852f861b198294fa4e98ab3fa13177
+      internalID: -1335691521596799428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_43
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e247a24cd608354e8dcfc4dab8315bd
+      internalID: -5987550640579008103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_44
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a3be1332b892458a652abf50ae14c
+      internalID: 6301770521377887564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_45
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd4e61915c41147ad751dfa0756c86
+      internalID: 5153917076310578618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_46
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17854bd87df5439469c30370e53212b0
+      internalID: 4313984123759636168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_47
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b81ced6ff318a54eb5fd6c69b5b1768
+      internalID: 3629768892693766118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_48
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07042506b96eb6a4c9ad6feb5dbb5cec
+      internalID: -4383208248852594796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_49
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 31
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60a60b6ecbd874984c3e77facb062a
+      internalID: -8356935416311559193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_50
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1e69b2e79627543b6c96ee624fad5f
+      internalID: -8706704587138710880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_51
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91601bd33895c4c4d85a461bfa84c938
+      internalID: 1448392202129003068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_52
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee030c0b8b6254785c136bfbfb0846
+      internalID: 4431457641393984707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_53
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b443a6cb762785d42b4d230cd8e318fe
+      internalID: 1373614368378395140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_54
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 31
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66176e2c8812ec64298f0cb919034625
+      internalID: -3188211200543787802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_55
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99c293589cce6468f94cc8d8b7319a
+      internalID: 7167267778105112715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_56
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ea564bddead948b491a5488f8d093
+      internalID: -330810578561643469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_57
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0c1e1495bdad4e8caa573b084c80e
+      internalID: -1857022962802741712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_58
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136ad16de0e7ed442b74d91ec743fb5e
+      internalID: -2116262825048672603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_59
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2f365c041dca4a8e04472ef75ea42
+      internalID: -1464334819638101616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_60
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5dd4e8ab9268a4f9dced850ced801f
+      internalID: -6176922015055686209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_61
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f0d8d78b1942a4f9c088c028fe2343
+      internalID: -5524469429135237863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_62
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd543a1064b3f54bab636bc313868e2
+      internalID: -2740031982075049761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_63
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841c9123d3fb9443a650c4c818e31f9
+      internalID: -5366775313524262834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_64
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56928f33ab064841bf16b3cdbe2a92c
+      internalID: 876171215760906798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_65
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5f7407b55d2e4f99a5fab292fbc18
+      internalID: 6101324959891869112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_66
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 31
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b52c0f84778a7448aa3ef6cb0a5f79
+      internalID: 4650409652731434451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_67
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d789e806b9d0343924c9d5126a4031
+      internalID: 3099577471797666324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_68
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96cbdadc967c04795298b7bcea676f
+      internalID: -8523166343286264533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_69
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b9923008f65fc418ad78e5fc24a237
+      internalID: -5001855369378183676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_70
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d76dc05beb98d4088f7e23865da2ad
+      internalID: -736356970684246067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wait_strip12_71
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f7a365d48f7a459e6b0b22ab6d1c7
+      internalID: 6342760420466658556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_wait_strip12_64: 876171215760906798
+      spr_wait_strip12_49: -8356935416311559193
+      spr_wait_strip12_24: -8508984889374640099
+      spr_wait_strip12_26: -1180937519375182486
+      spr_wait_strip12_54: -3188211200543787802
+      spr_wait_strip12_48: -4383208248852594796
+      spr_wait_strip12_20: -6917282997414057193
+      spr_wait_strip12_47: 3629768892693766118
+      spr_wait_strip12_43: -5987550640579008103
+      spr_wait_strip12_31: -3410722066966812263
+      spr_wait_strip12_56: -330810578561643469
+      spr_wait_strip12_0: -3070950757960798879
+      spr_wait_strip12_9: -3235910206546072954
+      spr_wait_strip12_7: -4060591380277453131
+      spr_wait_strip12_10: -6518763029607307917
+      spr_wait_strip12_30: 1404847887734747366
+      spr_wait_strip12_45: 5153917076310578618
+      spr_wait_strip12_71: 6342760420466658556
+      spr_wait_strip12_34: 4290420127776032983
+      spr_wait_strip12_3: 4377743790796880833
+      spr_wait_strip12_50: -8706704587138710880
+      spr_wait_strip12_55: 7167267778105112715
+      spr_wait_strip12_53: 1373614368378395140
+      spr_wait_strip12_25: -3552375625510359683
+      spr_wait_strip12_40: 1262065768554493264
+      spr_wait_strip12_44: 6301770521377887564
+      spr_wait_strip12_8: -4815027860743828895
+      spr_wait_strip12_17: -2756085795675894498
+      spr_wait_strip12_32: -3090754342182014029
+      spr_wait_strip12_57: -1857022962802741712
+      spr_wait_strip12_51: 1448392202129003068
+      spr_wait_strip12_66: 4650409652731434451
+      spr_wait_strip12_67: 3099577471797666324
+      spr_wait_strip12_68: -8523166343286264533
+      spr_wait_strip12_2: 8470328821267705144
+      spr_wait_strip12_22: 8049957497755560761
+      spr_wait_strip12_61: -5524469429135237863
+      spr_wait_strip12_33: -4798655546062513850
+      spr_wait_strip12_37: -4923936523256996875
+      spr_wait_strip12_46: 4313984123759636168
+      spr_wait_strip12_69: -5001855369378183676
+      spr_wait_strip12_35: 428643857042826940
+      spr_wait_strip12_13: -8567121428731458115
+      spr_wait_strip12_42: -1335691521596799428
+      spr_wait_strip12_63: -5366775313524262834
+      spr_wait_strip12_65: 6101324959891869112
+      spr_wait_strip12_52: 4431457641393984707
+      spr_wait_strip12_19: 2870726610182677412
+      spr_wait_strip12_5: -4294252475182181865
+      spr_wait_strip12_12: 4937554633611506502
+      spr_wait_strip12_21: -3023299153066117947
+      spr_wait_strip12_23: -2122295063134146780
+      spr_wait_strip12_39: -3325475035131132622
+      spr_wait_strip12_1: -9137313088394221361
+      spr_wait_strip12_11: -7800321989306089185
+      spr_wait_strip12_18: -6033415576347712101
+      spr_wait_strip12_28: 6367424815213977704
+      spr_wait_strip12_70: -736356970684246067
+      spr_wait_strip12_15: -7765357351078613647
+      spr_wait_strip12_60: -6176922015055686209
+      spr_wait_strip12_4: 5996189106421345977
+      spr_wait_strip12_6: 3831669436627194887
+      spr_wait_strip12_14: -5055819861015095127
+      spr_wait_strip12_29: -7889465645778523559
+      spr_wait_strip12_27: 6607690208573186848
+      spr_wait_strip12_36: -4332255086632799860
+      spr_wait_strip12_38: -7720639935209887050
+      spr_wait_strip12_62: -2740031982075049761
+      spr_wait_strip12_16: 61981614977882570
+      spr_wait_strip12_41: 5634280002278542848
+      spr_wait_strip12_58: -2116262825048672603
+      spr_wait_strip12_59: -1464334819638101616
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

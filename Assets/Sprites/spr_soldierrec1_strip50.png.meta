@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 546dee0cd72e0c9479a0b08bbe0a6df7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4920377276858273366
+    second: spr_soldierrec1_strip50_0
+  - first:
+      213: 3235399124168409292
+    second: spr_soldierrec1_strip50_1
+  - first:
+      213: -2594634193856135405
+    second: spr_soldierrec1_strip50_2
+  - first:
+      213: -4694073031315481438
+    second: spr_soldierrec1_strip50_3
+  - first:
+      213: -3507574728479707955
+    second: spr_soldierrec1_strip50_4
+  - first:
+      213: 3870857374486921397
+    second: spr_soldierrec1_strip50_5
+  - first:
+      213: -1990777075553702865
+    second: spr_soldierrec1_strip50_6
+  - first:
+      213: 7652175721345043305
+    second: spr_soldierrec1_strip50_7
+  - first:
+      213: -3217159543485139815
+    second: spr_soldierrec1_strip50_8
+  - first:
+      213: 8116495286609501132
+    second: spr_soldierrec1_strip50_9
+  - first:
+      213: -7767994961789492050
+    second: spr_soldierrec1_strip50_10
+  - first:
+      213: 7538167011535892385
+    second: spr_soldierrec1_strip50_11
+  - first:
+      213: 1878359919730082435
+    second: spr_soldierrec1_strip50_12
+  - first:
+      213: -6136703411786145682
+    second: spr_soldierrec1_strip50_13
+  - first:
+      213: -390549624410351075
+    second: spr_soldierrec1_strip50_14
+  - first:
+      213: -7995758004999544521
+    second: spr_soldierrec1_strip50_15
+  - first:
+      213: 5174846063640910558
+    second: spr_soldierrec1_strip50_16
+  - first:
+      213: 1198253131731371741
+    second: spr_soldierrec1_strip50_17
+  - first:
+      213: 4294263834583722612
+    second: spr_soldierrec1_strip50_18
+  - first:
+      213: -719010295752982779
+    second: spr_soldierrec1_strip50_19
+  - first:
+      213: 296133645508694979
+    second: spr_soldierrec1_strip50_20
+  - first:
+      213: -2889133339871321138
+    second: spr_soldierrec1_strip50_21
+  - first:
+      213: 771469926809494371
+    second: spr_soldierrec1_strip50_22
+  - first:
+      213: -75917231927415976
+    second: spr_soldierrec1_strip50_23
+  - first:
+      213: -7481401717760993732
+    second: spr_soldierrec1_strip50_24
+  - first:
+      213: 8555898558351475703
+    second: spr_soldierrec1_strip50_25
+  - first:
+      213: -6958627976279928099
+    second: spr_soldierrec1_strip50_26
+  - first:
+      213: 43415166175929079
+    second: spr_soldierrec1_strip50_27
+  - first:
+      213: 4962014034072396458
+    second: spr_soldierrec1_strip50_28
+  - first:
+      213: 7799344777782106374
+    second: spr_soldierrec1_strip50_29
+  - first:
+      213: 5906477093075664407
+    second: spr_soldierrec1_strip50_30
+  - first:
+      213: -7701172033610760695
+    second: spr_soldierrec1_strip50_31
+  - first:
+      213: -2549046830806099574
+    second: spr_soldierrec1_strip50_32
+  - first:
+      213: 5841077385979188364
+    second: spr_soldierrec1_strip50_33
+  - first:
+      213: 6617940636660865873
+    second: spr_soldierrec1_strip50_34
+  - first:
+      213: -7368253630944844793
+    second: spr_soldierrec1_strip50_35
+  - first:
+      213: -7322659695383623451
+    second: spr_soldierrec1_strip50_36
+  - first:
+      213: -46140373867578349
+    second: spr_soldierrec1_strip50_37
+  - first:
+      213: -3641611110463644715
+    second: spr_soldierrec1_strip50_38
+  - first:
+      213: -4642829967002445110
+    second: spr_soldierrec1_strip50_39
+  - first:
+      213: 4007266426463402143
+    second: spr_soldierrec1_strip50_40
+  - first:
+      213: -7878265871197778151
+    second: spr_soldierrec1_strip50_41
+  - first:
+      213: 8666170198758846287
+    second: spr_soldierrec1_strip50_42
+  - first:
+      213: 4555106270888273172
+    second: spr_soldierrec1_strip50_43
+  - first:
+      213: 2672742709336722376
+    second: spr_soldierrec1_strip50_44
+  - first:
+      213: -7772251153283364817
+    second: spr_soldierrec1_strip50_45
+  - first:
+      213: -3946786555938073022
+    second: spr_soldierrec1_strip50_46
+  - first:
+      213: -1126152311757181952
+    second: spr_soldierrec1_strip50_47
+  - first:
+      213: -4361630928743594621
+    second: spr_soldierrec1_strip50_48
+  - first:
+      213: 5105263619685505954
+    second: spr_soldierrec1_strip50_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9accd1bb557ef45904a462d1c2bfce
+      internalID: 4920377276858273366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e0d57fb2bc95488ae70fd98a84bf5
+      internalID: 3235399124168409292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efc6c516079ce5448112bb25e269a2c
+      internalID: -2594634193856135405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c18a35aed7f7b54b87131e88c8c454d
+      internalID: -4694073031315481438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c5760e9d78b448bcc9ccaeb2e2183
+      internalID: -3507574728479707955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb6ea1dc3ea2d943a89417cadbea7de
+      internalID: 3870857374486921397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2f2087c48a9c448453eb413700d37
+      internalID: -1990777075553702865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfefbff322ff89418d5e48417284499
+      internalID: 7652175721345043305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbb73247555c647a8cea77a0326610
+      internalID: -3217159543485139815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27795a73973cc7848a5b7e3d2f4baeaa
+      internalID: 8116495286609501132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e9898376429d41a217e22dc09b53c
+      internalID: -7767994961789492050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a941dfca3ae4342ab2a2a39421728e
+      internalID: 7538167011535892385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bbc31537809347aeedb6534ec09b0
+      internalID: 1878359919730082435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346603289e52af44bacf0d6e21ff8cb
+      internalID: -6136703411786145682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba725dc88d42ff0429bebcac4e7f5fb9
+      internalID: -390549624410351075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8369cafd03ecc3d458a4bcf74efdb37c
+      internalID: -7995758004999544521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a09997abbc0b64c96e48826afc53dc
+      internalID: 5174846063640910558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d518fd57c70a1a428075bcf36a4846a
+      internalID: 1198253131731371741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f33ef7bdff79645b68ac9a8cc62675
+      internalID: 4294263834583722612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be14fec04f64974bbded3f00c8fa59a
+      internalID: -719010295752982779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb4af5f24ad504cae443af65e5884b
+      internalID: 296133645508694979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_21
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c48493c7da48041ae5a2e874f0ff53
+      internalID: -2889133339871321138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_22
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc547c4b2e8bc2f408c510807c98023c
+      internalID: 771469926809494371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_23
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd053294981a0024ba8c86362bc5c72a
+      internalID: -75917231927415976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a8fdc2b84e2ac42b595c5688228538
+      internalID: -7481401717760993732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_25
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f61b0b10e4d64bb7b81e154caec6e
+      internalID: 8555898558351475703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_26
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65506d53a1b45fd49899ac2df3d04b44
+      internalID: -6958627976279928099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_27
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5fa79d2a7e4944a95280670a1d2b0
+      internalID: 43415166175929079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_28
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3188c2bae34e6f1438d9527d5c96ad64
+      internalID: 4962014034072396458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_29
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab3f3f390a6fc4eab738c168db2ac7
+      internalID: 7799344777782106374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74775506f5497a247b035d8ab3a238c1
+      internalID: 5906477093075664407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_31
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565d5777fd75704db8043343aabe7b7
+      internalID: -7701172033610760695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde4dcb8a06fb34da4c9f584c185fb7
+      internalID: -2549046830806099574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_33
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd10da790317a7a4896b4e9f333a4dae
+      internalID: 5841077385979188364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_34
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c410bbb63adcb4397e14555c67f5ae
+      internalID: 6617940636660865873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_35
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d322bca5327346b224cef73c538d3
+      internalID: -7368253630944844793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_36
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b27198e99cea478c66f3bd2f5b0c7
+      internalID: -7322659695383623451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_37
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28168fd0c112c42aa0d357b8c5aa57
+      internalID: -46140373867578349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_38
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bac0642e32e6940a0050d505c04bdc
+      internalID: -3641611110463644715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_39
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c9997b85f3e54e80ee41c6ccbbbc9
+      internalID: -4642829967002445110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_40
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ebafc5fb91cb4ca25364c53bea065
+      internalID: 4007266426463402143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_41
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e469491d3ed686e4b958e1fbed9a942d
+      internalID: -7878265871197778151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_42
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec0a6dfb33d9548b4d3be6453b1e12
+      internalID: 8666170198758846287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_43
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb67bbca7264844588a20c7014099aa
+      internalID: 4555106270888273172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_44
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8036ea83104f4e838a62999f0bf85
+      internalID: 2672742709336722376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_45
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba363712c1fcb4aa8627262bb00753
+      internalID: -7772251153283364817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_46
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b88170e435b04e95d3f7799c88129
+      internalID: -3946786555938073022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_47
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8410632ff15117d4ba7f9e226dcddd6b
+      internalID: -1126152311757181952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75bf5c79d90e3a4a8a8510283cc7e45
+      internalID: -4361630928743594621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_soldierrec1_strip50_49
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11353171db471fe4c89e7e2bfcf9d7d0
+      internalID: 5105263619685505954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_soldierrec1_strip50_25: 8555898558351475703
+      spr_soldierrec1_strip50_10: -7767994961789492050
+      spr_soldierrec1_strip50_46: -3946786555938073022
+      spr_soldierrec1_strip50_16: 5174846063640910558
+      spr_soldierrec1_strip50_30: 5906477093075664407
+      spr_soldierrec1_strip50_21: -2889133339871321138
+      spr_soldierrec1_strip50_43: 4555106270888273172
+      spr_soldierrec1_strip50_4: -3507574728479707955
+      spr_soldierrec1_strip50_38: -3641611110463644715
+      spr_soldierrec1_strip50_17: 1198253131731371741
+      spr_soldierrec1_strip50_15: -7995758004999544521
+      spr_soldierrec1_strip50_40: 4007266426463402143
+      spr_soldierrec1_strip50_7: 7652175721345043305
+      spr_soldierrec1_strip50_42: 8666170198758846287
+      spr_soldierrec1_strip50_8: -3217159543485139815
+      spr_soldierrec1_strip50_39: -4642829967002445110
+      spr_soldierrec1_strip50_33: 5841077385979188364
+      spr_soldierrec1_strip50_20: 296133645508694979
+      spr_soldierrec1_strip50_34: 6617940636660865873
+      spr_soldierrec1_strip50_36: -7322659695383623451
+      spr_soldierrec1_strip50_49: 5105263619685505954
+      spr_soldierrec1_strip50_28: 4962014034072396458
+      spr_soldierrec1_strip50_2: -2594634193856135405
+      spr_soldierrec1_strip50_6: -1990777075553702865
+      spr_soldierrec1_strip50_11: 7538167011535892385
+      spr_soldierrec1_strip50_29: 7799344777782106374
+      spr_soldierrec1_strip50_23: -75917231927415976
+      spr_soldierrec1_strip50_48: -4361630928743594621
+      spr_soldierrec1_strip50_13: -6136703411786145682
+      spr_soldierrec1_strip50_0: 4920377276858273366
+      spr_soldierrec1_strip50_45: -7772251153283364817
+      spr_soldierrec1_strip50_9: 8116495286609501132
+      spr_soldierrec1_strip50_44: 2672742709336722376
+      spr_soldierrec1_strip50_26: -6958627976279928099
+      spr_soldierrec1_strip50_32: -2549046830806099574
+      spr_soldierrec1_strip50_27: 43415166175929079
+      spr_soldierrec1_strip50_22: 771469926809494371
+      spr_soldierrec1_strip50_24: -7481401717760993732
+      spr_soldierrec1_strip50_35: -7368253630944844793
+      spr_soldierrec1_strip50_47: -1126152311757181952
+      spr_soldierrec1_strip50_18: 4294263834583722612
+      spr_soldierrec1_strip50_41: -7878265871197778151
+      spr_soldierrec1_strip50_31: -7701172033610760695
+      spr_soldierrec1_strip50_37: -46140373867578349
+      spr_soldierrec1_strip50_1: 3235399124168409292
+      spr_soldierrec1_strip50_3: -4694073031315481438
+      spr_soldierrec1_strip50_5: 3870857374486921397
+      spr_soldierrec1_strip50_19: -719010295752982779
+      spr_soldierrec1_strip50_12: 1878359919730082435
+      spr_soldierrec1_strip50_14: -390549624410351075
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
