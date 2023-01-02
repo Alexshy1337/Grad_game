@@ -31,12 +31,20 @@ public class WeaponBase
     }
 
     public virtual void Shoot()
-    {
+    {/*
         Vector3 dir = FirePoint.position;
         dir.y += Mathf.Lerp(-spread, spread, Random.value);
         Mathf.Lerp(FirePoint.position.y - spread, FirePoint.position.y + spread, Random.value);
         GameObject bullet = UnityEngine.Object.Instantiate(bulletPrefab, FirePoint.position, FirePoint.rotation);
         //Object.Destroy(Object.Instantiate(impactEffect, hitInfo.point, Quaternion.identity), 1);
+        */
+
+        Quaternion dir = FirePoint.rotation;
+        dir.z += Mathf.Lerp(-spread, spread, Random.value);
+        dir.w += Mathf.Lerp(-spread, spread, Random.value);
+        //Mathf.Lerp(FirePoint.position.y - spread, FirePoint.position.y + spread, Random.value);
+        GameObject bullet = UnityEngine.Object.Instantiate(bulletPrefab, FirePoint.position, dir);  //FirePoint.rotation*dir);
+
     }
 
     public void StopAllCoroutines()

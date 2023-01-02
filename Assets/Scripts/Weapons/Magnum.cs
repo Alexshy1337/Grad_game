@@ -13,6 +13,12 @@ public class Magnum : WeaponBase
         useTime = 0;
     }
 
+    public override IEnumerator ShootCoroutine()
+    {
+        Shoot();
+        yield return 0;
+    }
+
     /*public override IEnumerator ShootCoroutine()
     {
         Shoot();
@@ -20,5 +26,9 @@ public class Magnum : WeaponBase
         yield return new WaitForSeconds(0.03f);
         line.enabled = false;
         yield return 0;
-    }*/
+    }
+    
+     
+
+     */
 }

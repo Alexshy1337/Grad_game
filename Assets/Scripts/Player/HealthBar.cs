@@ -13,6 +13,7 @@ public class HealthBar : MonoBehaviour
     public float maxValue = 100;
     public int regenValue = 15;
     public GameObject deathEffect, player, gameOverScreen, pauseMenu, spawners;
+    public bool debugMode = false;
     public TMP_InputField inputField;
     public ScoreCounter scoreCounter;
     public Button saveScoreButton;
@@ -76,6 +77,10 @@ public class HealthBar : MonoBehaviour
         if (scoreCounter.totalmoney >= 500)
         {
             scoreCounter.SpendMoney(500);
+            weaponController.GetNewGun();
+        }
+        else if (debugMode)
+        {
             weaponController.GetNewGun();
         }
     }

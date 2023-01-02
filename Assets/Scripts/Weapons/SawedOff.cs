@@ -9,13 +9,33 @@ public class SawedOff : WeaponBase
 
     public SawedOff()
     {
-        spread = 0.1f;
-        damage = 35;
+        spread = 0.03f;
+        damage = 12;
         weaponName = "Sawed Off shotgun";
         useTime = 0.5f;
     }
 
-    /*public override IEnumerator ShootCoroutine()
+    public override IEnumerator ShootCoroutine()
+    {
+        Shoot();
+        yield return new WaitForSeconds(useTime);
+    }
+
+    public override void Shoot()
+    {
+        for(int i = 0; i< bulletAmount; i++)
+        {
+            //Vector3 dir = FirePoint.position;
+            Quaternion dir = FirePoint.rotation; // new Quaternion (0, FirePoint.rotation.y, FirePoint.rotation.z, FirePoint.rotation.w);
+            dir.w += Mathf.Lerp(-spread, spread, Random.value);
+            dir.z += Mathf.Lerp(-spread, spread, Random.value);
+            //Mathf.Lerp(FirePoint.position.y - spread, FirePoint.position.y + spread, Random.value);
+            GameObject bullet = UnityEngine.Object.Instantiate(bulletPrefab, FirePoint.position, dir);  //FirePoint.rotation*dir);
+        }
+    }
+
+    /*
+    public override IEnumerator ShootCoroutine()
     {
         stop = false;
         while (true)

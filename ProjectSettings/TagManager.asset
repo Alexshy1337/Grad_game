@@ -10,6 +10,8 @@ TagManager:
   - HealthBar
   - PathTarget
   - ScoreLabel
+  - Shop
+  - Bullet
   layers:
   - Default
   - TransparentFX
