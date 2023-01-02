@@ -5,9 +5,12 @@ public class WeaponController : MonoBehaviour
 {
     public Transform FirePoint;
     public Transform GunBack;
-    public GameObject impactEffect, FireBlast, linesObj;
-    public LineRenderer line;
-    private SpriteRenderer GunRenderer;//acutally player renderer
+    public GameObject impactEffect;
+    public GameObject FireBlast;
+    public GameObject linesObj;
+    public GameObject bulletPrefab;
+    //public LineRenderer line;
+    private SpriteRenderer GunRenderer;//acutally player with different guns renderer
     private WeaponBase[] weapon;
     private int currentWeapon = 0;
     private bool isShooting = false, isChangingWeapons = false;
@@ -19,7 +22,8 @@ public class WeaponController : MonoBehaviour
         gun.FirePoint = FirePoint.transform;
         gun.GunBack = GunBack.transform;
         gun.impactEffect = impactEffect;
-        gun.line = line;
+        gun.bulletPrefab = bulletPrefab;
+        //gun.line = line;
     }
 
     private void Start()
@@ -28,20 +32,21 @@ public class WeaponController : MonoBehaviour
         weapon = new WeaponBase[4];
         weapon[0] = new StarterWeapon();
         weapon[1] = new MG42();
-        weapon[2] = new SawedOff() {
+        weapon[2] = new SawedOff()
+        {
             spread = 0.1f,
             damage = 35,
             weaponName = "Sawed Off shotgun",
             useTime = 0.5f,
-            lines = linesObj.GetComponentsInChildren<LineRenderer>(true) 
+            //lines = linesObj.GetComponentsInChildren<LineRenderer>(true) 
         };
         weapon[3] = new Magnum();
 
         foreach (WeaponBase w in weapon)
             FillGun(w);
-        
+
         GunRenderer = (SpriteRenderer)gameObject.GetComponent("SpriteRenderer");
-        
+
         //Gunsprites array init
         GunSprites = new Sprite[4];
         GunSprites[0] = Resources.Load<Sprite>("mp40");

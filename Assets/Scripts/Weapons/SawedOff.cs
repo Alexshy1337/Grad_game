@@ -5,7 +5,7 @@ using UnityEngine;
 public class SawedOff : WeaponBase
 {
     private int bulletAmount = 8;
-    public LineRenderer[] lines;
+    //public LineRenderer[] lines;
 
     public SawedOff()
     {
@@ -15,7 +15,7 @@ public class SawedOff : WeaponBase
         useTime = 0.5f;
     }
 
-    public override IEnumerator ShootCoroutine()
+    /*public override IEnumerator ShootCoroutine()
     {
         stop = false;
         while (true)
@@ -36,6 +36,7 @@ public class SawedOff : WeaponBase
         }
         yield return 0;
     }
+    
 
     public override void Shoot()
     {
@@ -55,5 +56,5 @@ public class SawedOff : WeaponBase
                 lines[i].SetPosition(1, hitInfo.point);
             }
         }
-    }
+    }*/
 }

@@ -13,12 +13,12 @@ public class Magnum : WeaponBase
         useTime = 0;
     }
 
-    public override IEnumerator ShootCoroutine()
+    /*public override IEnumerator ShootCoroutine()
     {
         Shoot();
         line.enabled = true;
         yield return new WaitForSeconds(0.03f);
         line.enabled = false;
         yield return 0;
-    }
+    }*/
 }
