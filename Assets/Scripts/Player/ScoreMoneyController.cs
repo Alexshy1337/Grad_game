@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScoreCounter : MonoBehaviour
+public class ScoreMoneyController : MonoBehaviour
 {
     public Text scoreLabel;
     public TextMeshProUGUI moneyLabel;
