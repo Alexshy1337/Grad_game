@@ -269,12 +269,12 @@ PrefabInstance:
     - target: {fileID: 112023314543974281, guid: 29b21eb7d3621db48a01928c6c7d04fe,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -74.99077
+      value: 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 112023314543974281, guid: 29b21eb7d3621db48a01928c6c7d04fe,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.11204147
+      value: -2.2
       objectReference: {fileID: 0}
     - target: {fileID: 112023314543974281, guid: 29b21eb7d3621db48a01928c6c7d04fe,
         type: 3}
@@ -1695,6 +1695,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2054450301292727134, guid: 303630d41fa2c1b4da2684477f64070d,
+        type: 3}
+      propertyPath: pathTarget
+      value: 
+      objectReference: {fileID: 465359882}
+    - target: {fileID: 2054450301461548613, guid: 303630d41fa2c1b4da2684477f64070d,
+        type: 3}
+      propertyPath: pathTarget
+      value: 
+      objectReference: {fileID: 465359882}
     - target: {fileID: 2054450302231674886, guid: 303630d41fa2c1b4da2684477f64070d,
         type: 3}
       propertyPath: m_RootOrder
@@ -1755,6 +1765,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spawners
       objectReference: {fileID: 0}
+    - target: {fileID: 2054450302284616847, guid: 303630d41fa2c1b4da2684477f64070d,
+        type: 3}
+      propertyPath: pathTarget
+      value: 
+      objectReference: {fileID: 465359882}
+    - target: {fileID: 2054450302863239761, guid: 303630d41fa2c1b4da2684477f64070d,
+        type: 3}
+      propertyPath: pathTarget
+      value: 
+      objectReference: {fileID: 465359882}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 303630d41fa2c1b4da2684477f64070d, type: 3}
 --- !u!1001 &5193914685039948443
