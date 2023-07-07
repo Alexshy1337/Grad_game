@@ -8,12 +8,12 @@ public class EnemyController : MonoBehaviour
     public GameObject[] blood;
     public Transform start, direction;
     public HealthBar playerHP;
-    public ScoreCounter score;
+    public ScoreMoneyController score;
 
     void Start()
     {
         direction = GameObject.FindGameObjectWithTag("Player").transform;
-        score = GameObject.FindGameObjectWithTag("ScoreLabel").GetComponent<ScoreCounter>();
+        score = GameObject.FindGameObjectWithTag("ScoreLabel").GetComponent<ScoreMoneyController>();
         playerHP = GameObject.FindGameObjectWithTag("HealthBar").GetComponent<HealthBar>();
         StartCoroutine(damageCoroutine());
     }

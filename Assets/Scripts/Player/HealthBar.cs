@@ -14,7 +14,7 @@ public class HealthBar : MonoBehaviour
     public int regenValue = 15;
     public GameObject deathEffect, player, gameOverScreen, pauseMenu, spawners;
     public TMP_InputField inputField;
-    public ScoreCounter scoreCounter;
+    public ScoreMoneyController scoreCounter;
     public Button saveScoreButton;
     private WeaponController weaponController;
     private static float current;

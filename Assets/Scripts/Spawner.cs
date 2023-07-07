@@ -5,6 +5,7 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     public GameObject zombie_normal;
+    public Transform pathTarget;
     public float difficultyCoeff = 0.1f;
     public float timedDifficulty = 0;
 
@@ -25,7 +26,9 @@ public class Spawner : MonoBehaviour
         {
             GameObject zombie = Instantiate(zombie_normal, gameObject.transform.position, gameObject.transform.rotation);
             EnemyController zombieController = (EnemyController)zombie.GetComponent("EnemyController");
-            AIPath zPath = (AIPath)zombie.GetComponent("AIPath");
+            AIPath zPath = (AIPath)zombie.GetComponent("AIPath"); //PathTarget
+            AIDestinationSetter zDest = (AIDestinationSetter)zombie.GetComponent("AIDestinationSetter");
+            zDest.target = pathTarget;
             zombieController.health = Mathf.RoundToInt(Random.Range(70 + timedDifficulty * 2, 312 + timedDifficulty * 3));
             zombieController.damage = Mathf.RoundToInt(Random.Range(10 + timedDifficulty * 1.5f, 57 + timedDifficulty * 1.5f));
             zPath.maxSpeed = Random.Range(1 + timedDifficulty, 4 + timedDifficulty);
